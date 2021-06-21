@@ -8,4 +8,4 @@ All the art was made by me (only the train and the girl was not made by me), wit
 # GAMEPLAY
 https://user-images.githubusercontent.com/72021573/121014615-75ca1100-c79a-11eb-98a9-9fd94b771945.mp4
 
-The frame rate of this video does not reflect the reel framerate of the game, it is impacted by the recording.
+The frame rate of this video does not reflect the real framerate of the game, it is impacted by the recording.
